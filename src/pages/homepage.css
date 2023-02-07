@@ -1,0 +1,16 @@
+.btn {
+    color: white;
+    background-color: #4e4b46;
+    height: 28px;
+    width: 468px;
+    margin: 8px;
+}
+.h1{
+ color: black;
+ font-size: 28px;
+}
+.input{
+    height: 45px;
+    width: 458px;
+    margin: 5px;
+}
